@@ -1,6 +1,6 @@
 {
   "name": "poral-service-starter",
-  "version": "0.1.1",
+  "version": "0.0.0",
   "description": "Portal service worker starter",
   "type": "module",
   "files": [
