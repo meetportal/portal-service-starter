@@ -1,5 +1,5 @@
 {
-  "name": "demo-ehr-patient",
+  "name": "poral-service-starter",
   "version": "0.1.1",
   "description": "Portal service worker starter",
   "type": "module",
